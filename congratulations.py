@@ -1,0 +1,1 @@
+print ("Congratulations Raj for getting gold medal in the state games.I hope you have an awesome day and get more gold medals")
